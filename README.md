@@ -13,8 +13,9 @@ una definición precisa y absolutamente aceptada de lo que es un sistema complej
 
 1.- Está compuesto por una gran cantidad de elementos relativamente idénticos. Por ejemplo, las células en un organismo, o las personas
 en una sociedad.
-2.- La interacción entre sus elementos es local y origina un comportamiento emergente que no puede explicarse a partir de dichos elementos tomados
-aisladamente.
+
+2.- La interacción entre sus elementos es local y origina un comportamiento emergente que no puede explicarse a partir de dichos elementos tomados aisladamente.
+
 3.- Es muy difícil predecir su evolución dinámica futura; o sea, es prácticamente imposible vaticinar lo que ocurrirá más allá de un cierto
 horizonte temporal.
 
