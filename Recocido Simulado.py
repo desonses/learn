@@ -3,7 +3,11 @@
 """
 Created on Tue Nov 20 16:39:53 2018
 
+@author: David
+@author: Eliseo
 @author: Fredy
+
+@uaem, cinc
 """
 
 from random import randint
